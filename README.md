@@ -52,7 +52,7 @@ npm start
 4. Click Copy to copy the password to your clipboard.
 
 ## 📁 Project Structure
-
+```
 PasswordGenerator/
 │
 ├── src/
@@ -65,7 +65,7 @@ PasswordGenerator/
 ├── tailwind.config.js   # Tailwind CSS config
 ├── package.json         # Project metadata and dependencies
 ├── README.md            # You're here :)
-
+```
 
 ## 📌 Customization
 
