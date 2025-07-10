@@ -1,13 +1,82 @@
-# React + Vite
+# 🔐 Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and user-friendly **Password Generator** built with **React** and **Tailwind CSS**. It allows users to generate strong and secure passwords with customizable options like length, numbers, and special characters.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Generate random passwords instantly
+- Customize password **length** (from 8 to 100)
+- Include **numbers** and/or **special characters**
+- One-click **copy to clipboard**
+- Fully responsive and styled with Tailwind CSS
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# PasswordGenerator
+![Password Generator Screenshot](https://via.placeholder.com/800x400.png?text=Password+Generator+Preview)
+
+## 🛠️ Technologies Used
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- HTML5/CSS3
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/codingwithsubhransu/PasswordGenerator.git
+cd PasswordGenerator
+npm install
+```
+
+##  ▶️ Running the App
+
+```bash
+npm run dev
+# or
+npm start
+```
+
+## ✨ Usage
+
+1. Adjust the slider to set password **length**(from 8 to 100).
+
+2. Check the boxes to include:
+
+- ✅ Numbers
+
+- ✅ Special Characters
+
+3. The password is automatically generated and shown in the input field.
+
+4. Click Copy to copy the password to your clipboard.
+
+## 📁 Project Structure
+
+PasswordGenerator/
+│
+├── src/
+│   └── App.jsx          # Main React Component
+│   └── index.js         # Entry Point
+│
+├── public/
+│   └── index.html       # HTML template
+│
+├── tailwind.config.js   # Tailwind CSS config
+├── package.json         # Project metadata and dependencies
+├── README.md            # You're here :)
+
+
+## 📌 Customization
+
+You can easily customize:
+
+- Allowed characters
+
+- Color themes (via Tailwind config)
+
+- Add features like password strength meter
+
+## 🧑‍💻 Author
+Made with ❤️ by Subhransu Sekhar Rout
+- [Tailwind CSS](https://github.com/codingwithsubhransu)
