@@ -80,4 +80,4 @@ You can easily customize:
 
 ## 🧑‍💻 Author
 Made with ❤️ by Subhransu Sekhar Rout
-- [Tailwind CSS](https://github.com/codingwithsubhransu)
+- [Github](https://github.com/codingwithsubhransu)
