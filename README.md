@@ -12,7 +12,8 @@ A modern and user-friendly **Password Generator** built with **React** and **Tai
 
 ## 📸 Preview
 
-![Password Generator Screenshot](https://via.placeholder.com/800x400.png?text=Password+Generator+Preview)
+![Password Generator Screenshot]<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/2f04fcf8-92dc-4a10-b881-a9abe092a0a1" />
+
 
 ## 🛠️ Technologies Used
 
